@@ -1,0 +1,85 @@
+I, [2015-12-15T05:07:29.395117 #2802]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:07:31.203456 #2802]  INFO -- : listening on addr=/var/project_root/my_app/shared/sockets/unicorn.sock fd=11
+I, [2015-12-15T05:07:31.203634 #2802]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:07:31.205500 #2802]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:07:31.208923 #2802]  INFO -- : master process ready
+I, [2015-12-15T05:07:31.215647 #2805]  INFO -- : worker=0 spawned pid=2805
+I, [2015-12-15T05:07:31.215888 #2805]  INFO -- : worker=0 ready
+I, [2015-12-15T05:07:31.216978 #2808]  INFO -- : worker=1 spawned pid=2808
+I, [2015-12-15T05:07:31.217179 #2808]  INFO -- : worker=1 ready
+I, [2015-12-15T05:11:04.428511 #2802]  INFO -- : reaped #<Process::Status: pid 2805 exit 0> worker=0
+I, [2015-12-15T05:11:04.428714 #2802]  INFO -- : reaped #<Process::Status: pid 2808 exit 0> worker=1
+I, [2015-12-15T05:11:04.428837 #2802]  INFO -- : master complete
+I, [2015-12-15T05:11:57.507351 #3324]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:11:59.369747 #3324]  INFO -- : unlinking existing socket=/var/project_root/my_app/shared/sockets/unicorn.sock
+I, [2015-12-15T05:11:59.372642 #3324]  INFO -- : listening on addr=/var/project_root/my_app/shared/sockets/unicorn.sock fd=11
+I, [2015-12-15T05:11:59.372786 #3324]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:11:59.373971 #3324]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:11:59.375305 #3324]  INFO -- : master process ready
+I, [2015-12-15T05:11:59.380359 #3327]  INFO -- : worker=0 spawned pid=3327
+I, [2015-12-15T05:11:59.380601 #3327]  INFO -- : worker=0 ready
+I, [2015-12-15T05:11:59.381596 #3329]  INFO -- : worker=1 spawned pid=3329
+I, [2015-12-15T05:11:59.381811 #3329]  INFO -- : worker=1 ready
+I, [2015-12-15T05:15:04.588344 #3324]  INFO -- : reaped #<Process::Status: pid 3327 exit 0> worker=0
+I, [2015-12-15T05:15:04.588572 #3324]  INFO -- : reaped #<Process::Status: pid 3329 exit 0> worker=1
+I, [2015-12-15T05:15:04.588739 #3324]  INFO -- : master complete
+I, [2015-12-15T05:16:24.992383 #3435]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:16:27.552404 #3435]  INFO -- : unlinking existing socket=/var/project_root/my_app/shared/sockets/unicorn.sock
+I, [2015-12-15T05:16:27.553511 #3435]  INFO -- : listening on addr=/var/project_root/my_app/shared/sockets/unicorn.sock fd=9
+I, [2015-12-15T05:16:27.553685 #3435]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:16:27.554880 #3435]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:16:27.555808 #3435]  INFO -- : master process ready
+I, [2015-12-15T05:16:27.556909 #3460]  INFO -- : worker=0 spawned pid=3460
+I, [2015-12-15T05:16:27.557108 #3460]  INFO -- : worker=0 ready
+I, [2015-12-15T05:16:27.558975 #3462]  INFO -- : worker=1 spawned pid=3462
+I, [2015-12-15T05:16:27.559171 #3462]  INFO -- : worker=1 ready
+I, [2015-12-15T05:19:14.786723 #3435]  INFO -- : reaped #<Process::Status: pid 3460 exit 0> worker=0
+I, [2015-12-15T05:19:14.787138 #3435]  INFO -- : reaped #<Process::Status: pid 3462 exit 0> worker=1
+I, [2015-12-15T05:19:14.787497 #3435]  INFO -- : master complete
+I, [2015-12-15T05:19:26.788876 #3503]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:19:29.099485 #3503]  INFO -- : unlinking existing socket=/var/project_root/my_app/shared/sockets/unicorn.sock
+I, [2015-12-15T05:19:29.099889 #3503]  INFO -- : listening on addr=/var/project_root/my_app/shared/sockets/unicorn.sock fd=9
+I, [2015-12-15T05:19:29.100097 #3503]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:19:29.101344 #3503]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:19:29.102598 #3503]  INFO -- : master process ready
+I, [2015-12-15T05:19:29.103839 #3528]  INFO -- : worker=0 spawned pid=3528
+I, [2015-12-15T05:19:29.104119 #3528]  INFO -- : worker=0 ready
+I, [2015-12-15T05:19:29.105041 #3530]  INFO -- : worker=1 spawned pid=3530
+I, [2015-12-15T05:19:29.105293 #3530]  INFO -- : worker=1 ready
+I, [2015-12-15T05:20:17.109192 #3503]  INFO -- : reaped #<Process::Status: pid 3528 exit 0> worker=0
+I, [2015-12-15T05:20:17.109582 #3503]  INFO -- : reaped #<Process::Status: pid 3530 exit 0> worker=1
+I, [2015-12-15T05:20:17.109898 #3503]  INFO -- : master complete
+I, [2015-12-15T05:25:30.901844 #3652]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:25:33.181382 #3652]  INFO -- : listening on addr=0.0.0.0:8080 fd=9
+I, [2015-12-15T05:25:33.181737 #3652]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:25:33.182972 #3652]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:25:33.183949 #3652]  INFO -- : master process ready
+I, [2015-12-15T05:25:33.185130 #3677]  INFO -- : worker=0 spawned pid=3677
+I, [2015-12-15T05:25:33.185401 #3677]  INFO -- : worker=0 ready
+I, [2015-12-15T05:25:33.187200 #3679]  INFO -- : worker=1 spawned pid=3679
+I, [2015-12-15T05:25:33.187509 #3679]  INFO -- : worker=1 ready
+103.42.173.54 - - [15/Dec/2015 05:25:43] "GET /rails/info/properties HTTP/1.0" 200 - 0.6491
+I, [2015-12-15T05:25:52.330421 #3652]  INFO -- : reaped #<Process::Status: pid 3677 exit 0> worker=0
+I, [2015-12-15T05:25:52.330805 #3652]  INFO -- : reaped #<Process::Status: pid 3679 exit 0> worker=1
+I, [2015-12-15T05:25:52.331084 #3652]  INFO -- : master complete
+I, [2015-12-15T05:26:42.305477 #3839]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:26:43.912693 #3839]  INFO -- : listening on addr=0.0.0.0:8080 fd=11
+I, [2015-12-15T05:26:43.913020 #3839]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:26:43.915094 #3839]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:26:43.916059 #3842]  INFO -- : worker=0 spawned pid=3842
+I, [2015-12-15T05:26:43.917025 #3839]  INFO -- : master process ready
+I, [2015-12-15T05:26:43.923616 #3842]  INFO -- : worker=0 ready
+I, [2015-12-15T05:26:43.924604 #3845]  INFO -- : worker=1 spawned pid=3845
+I, [2015-12-15T05:26:43.924883 #3845]  INFO -- : worker=1 ready
+I, [2015-12-15T05:39:17.972018 #3839]  INFO -- : reaped #<Process::Status: pid 3842 exit 0> worker=0
+I, [2015-12-15T05:39:17.972430 #3839]  INFO -- : reaped #<Process::Status: pid 3845 exit 0> worker=1
+I, [2015-12-15T05:39:17.972725 #3839]  INFO -- : master complete
+I, [2015-12-15T05:40:20.253359 #992]  INFO -- : Refreshing Gem list
+I, [2015-12-15T05:40:22.695581 #992]  INFO -- : listening on addr=0.0.0.0:8080 fd=11
+I, [2015-12-15T05:40:22.695809 #992]  INFO -- : worker=0 spawning...
+I, [2015-12-15T05:40:22.697210 #992]  INFO -- : worker=1 spawning...
+I, [2015-12-15T05:40:22.698538 #992]  INFO -- : master process ready
+I, [2015-12-15T05:40:22.707902 #995]  INFO -- : worker=0 spawned pid=995
+I, [2015-12-15T05:40:22.708302 #995]  INFO -- : worker=0 ready
+I, [2015-12-15T05:40:22.713773 #997]  INFO -- : worker=1 spawned pid=997
+I, [2015-12-15T05:40:22.714397 #997]  INFO -- : worker=1 ready
